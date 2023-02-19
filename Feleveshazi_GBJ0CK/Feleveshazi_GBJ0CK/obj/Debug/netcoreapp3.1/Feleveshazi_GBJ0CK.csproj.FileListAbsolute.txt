@@ -1,0 +1,16 @@
+C:\Users\Márk\source\repos\Feleveshazi_GBJ0CK\Feleveshazi_GBJ0CK\obj\Debug\netcoreapp3.1\Feleveshazi_GBJ0CK.csproj.AssemblyReference.cache
+C:\Users\Márk\source\repos\Feleveshazi_GBJ0CK\Feleveshazi_GBJ0CK\obj\Debug\netcoreapp3.1\Feleveshazi_GBJ0CK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Márk\source\repos\Feleveshazi_GBJ0CK\Feleveshazi_GBJ0CK\obj\Debug\netcoreapp3.1\Feleveshazi_GBJ0CK.AssemblyInfoInputs.cache
+C:\Users\Márk\source\repos\Feleveshazi_GBJ0CK\Feleveshazi_GBJ0CK\obj\Debug\netcoreapp3.1\Feleveshazi_GBJ0CK.AssemblyInfo.cs
+C:\Users\Márk\source\repos\Feleveshazi_GBJ0CK\Feleveshazi_GBJ0CK\obj\Debug\netcoreapp3.1\Feleveshazi_GBJ0CK.csproj.CoreCompileInputs.cache
+C:\Users\Márk\source\repos\Feleveshazi_GBJ0CK\Feleveshazi_GBJ0CK\bin\Debug\netcoreapp3.1\Feleveshazi_GBJ0CK.exe
+C:\Users\Márk\source\repos\Feleveshazi_GBJ0CK\Feleveshazi_GBJ0CK\bin\Debug\netcoreapp3.1\Feleveshazi_GBJ0CK.deps.json
+C:\Users\Márk\source\repos\Feleveshazi_GBJ0CK\Feleveshazi_GBJ0CK\bin\Debug\netcoreapp3.1\Feleveshazi_GBJ0CK.runtimeconfig.json
+C:\Users\Márk\source\repos\Feleveshazi_GBJ0CK\Feleveshazi_GBJ0CK\bin\Debug\netcoreapp3.1\Feleveshazi_GBJ0CK.runtimeconfig.dev.json
+C:\Users\Márk\source\repos\Feleveshazi_GBJ0CK\Feleveshazi_GBJ0CK\bin\Debug\netcoreapp3.1\Feleveshazi_GBJ0CK.dll
+C:\Users\Márk\source\repos\Feleveshazi_GBJ0CK\Feleveshazi_GBJ0CK\bin\Debug\netcoreapp3.1\Feleveshazi_GBJ0CK.pdb
+C:\Users\Márk\source\repos\Feleveshazi_GBJ0CK\Feleveshazi_GBJ0CK\bin\Debug\netcoreapp3.1\DumpExtensions.dll
+C:\Users\Márk\source\repos\Feleveshazi_GBJ0CK\Feleveshazi_GBJ0CK\obj\Debug\netcoreapp3.1\Feleveshazi_GBJ0CK.csproj.CopyComplete
+C:\Users\Márk\source\repos\Feleveshazi_GBJ0CK\Feleveshazi_GBJ0CK\obj\Debug\netcoreapp3.1\Feleveshazi_GBJ0CK.dll
+C:\Users\Márk\source\repos\Feleveshazi_GBJ0CK\Feleveshazi_GBJ0CK\obj\Debug\netcoreapp3.1\Feleveshazi_GBJ0CK.pdb
+C:\Users\Márk\source\repos\Feleveshazi_GBJ0CK\Feleveshazi_GBJ0CK\obj\Debug\netcoreapp3.1\Feleveshazi_GBJ0CK.genruntimeconfig.cache
